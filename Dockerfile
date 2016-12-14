@@ -15,7 +15,7 @@ USER audiogram
 WORKDIR /home/audiogram
 
 # Clone repo
-RUN git clone https://github.com/nypublicradio/audiogram.git
+RUN git clone https://github.com/wpr-ttbook/audiogram
 WORKDIR /home/audiogram/audiogram
 
 # Install dependencies
