@@ -82,6 +82,98 @@
       "waveColor": "#267bb9"
     },
 
+    "Instagram - Jackson-0.png": {
+      "width": 720,
+      "height": 720,
+      "captionAlign": "right",
+      "captionFont": "300 40px 'Oswald'",
+      "captionLineHeight": 52,
+      "captionLineSpacing": 7,
+      "pattern": "wave",
+      "captionTop": 60,
+      "captionRight": 700,
+      "captionLeft": 20,
+      "backgroundImage": "Jackson-0.png",
+      "foregroundColor": "#267bb9",
+      "waveBottom": 500,
+      "waveTop": 350,
+      "waveColor": "#facf09"
+    },
+
+    "Instagram - Jackson-1.png": {
+      "width": 720,
+      "height": 720,
+      "captionAlign": "right",
+      "captionFont": "300 40px 'Oswald'",
+      "captionLineHeight": 52,
+      "captionLineSpacing": 7,
+      "pattern": "wave",
+      "captionTop": 60,
+      "captionRight": 700,
+      "captionLeft": 20,
+      "backgroundImage": "Jackson-1.png",
+      "foregroundColor": "#267bb9",
+      "waveBottom": 500,
+      "waveTop": 350,
+      "waveColor": "#facf09"
+    },
+
+    "Instagram - Jackson-2.png": {
+      "width": 720,
+      "height": 720,
+      "captionAlign": "right",
+      "captionFont": "300 40px 'Oswald'",
+      "captionLineHeight": 52,
+      "captionLineSpacing": 7,
+      "pattern": "wave",
+      "captionTop": 60,
+      "captionRight": 700,
+      "captionLeft": 20,
+      "backgroundImage": "Jackson-2.png",
+      "foregroundColor": "#267bb9",
+      "waveBottom": 500,
+      "waveTop": 350,
+      "waveColor": "#facf09"
+    },
+
+    "Instagram - Jackson-3.png": {
+      "width": 720,
+      "height": 720,
+      "captionAlign": "right",
+      "captionFont": "300 40px 'Oswald'",
+      "captionLineHeight": 52,
+      "captionLineSpacing": 7,
+      "pattern": "wave",
+      "captionTop": 60,
+      "captionRight": 700,
+      "captionLeft": 20,
+      "backgroundImage": "Jackson-3.png",
+      "foregroundColor": "#267bb9",
+      "waveBottom": 500,
+      "waveTop": 350,
+      "waveColor": "#facf09"
+    },
+
+    "Instagram - Jackson-4.png": {
+      "width": 720,
+      "height": 720,
+      "captionAlign": "right",
+      "captionFont": "300 40px 'Oswald'",
+      "captionLineHeight": 52,
+      "captionLineSpacing": 7,
+      "pattern": "wave",
+      "captionTop": 60,
+      "captionRight": 700,
+      "captionLeft": 20,
+      "backgroundImage": "Jackson-4.png",
+      "foregroundColor": "#267bb9",
+      "waveBottom": 500,
+      "waveTop": 350,
+      "waveColor": "#facf09"
+    },
+
+
+
 
     "Instagram - mariela.png": {
       "width": 720,
@@ -173,7 +265,21 @@
     "waveColor": "#5ab251"
   },
 
+  "Sonic Sidebar - Jackson": {
+    "captionAlign": "left",
+    "captionFont": "300 50px 'Oswald'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
 
+    "captionTop": 300,
+    "captionRight": 500,
+    "captionLeft": 60,
+    "backgroundImage": "jackson-ss.png",
+    "foregroundColor": "#facf09",
+    "waveBottom": 700,
+    "waveTop": 550,
+    "waveColor": "#facf09"
+  },
 
   "Sonic Sidebar - Mark of Trump": {
     "captionAlign": "right",
