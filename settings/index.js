@@ -20,8 +20,8 @@ var path = require("path");
 
 module.exports = {
   workingDirectory: path.join(__dirname, "..", "tmp"),
-  storagePath: path.join(__dirname, "..", "media"),
   redisHost: "127.0.0.1",
+  s3Bucket: "wpr-audiogram",
   worker: true,
   fonts: [
   { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Regular.ttf") },
