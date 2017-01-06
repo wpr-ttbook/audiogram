@@ -66,6 +66,7 @@
       "waveColor": "#5ab251"
     },
 
+
     "Furniture - dangerous ideas": {
       "captionAlign": "right",
       "captionFont": "600 70px 'Oswald'",
@@ -76,124 +77,30 @@
       "captionRight": 1220,
       "captionLeft": 500,
       "backgroundImage": "dangerous-ideas.png",
-      "foregroundColor": "#267bb9",
+      "foregroundColor": "#FFFFFF",
       "waveBottom": 550,
       "waveTop": 400,
       "waveColor": "#267bb9"
     },
 
-    "Instagram - Jackson-0.png": {
-      "width": 720,
-      "height": 720,
+
+    "Furniture - dangerous ideas": {
       "captionAlign": "right",
-      "captionFont": "300 40px 'Oswald'",
-      "captionLineHeight": 52,
+      "captionFont": "600 70px 'Oswald'",
+      "captionLineHeight": 60,
       "captionLineSpacing": 7,
-      "pattern": "wave",
-      "captionTop": 60,
-      "captionRight": 700,
-      "captionLeft": 20,
-      "backgroundImage": "Jackson-0.png",
-      "foregroundColor": "#267bb9",
-      "waveBottom": 500,
-      "waveTop": 350,
-      "waveColor": "#facf09"
+
+      "captionTop": 25,
+      "captionRight": 1220,
+      "captionLeft": 500,
+      "backgroundImage": "dangerous-ideas.png",
+      "foregroundColor": "#FFFFFF",
+      "waveBottom": 550,
+      "waveTop": 400,
+      "waveColor": "#267bb9"
     },
 
-    "Instagram - Jackson-1.png": {
-      "width": 720,
-      "height": 720,
-      "captionAlign": "right",
-      "captionFont": "300 40px 'Oswald'",
-      "captionLineHeight": 52,
-      "captionLineSpacing": 7,
-      "pattern": "wave",
-      "captionTop": 60,
-      "captionRight": 700,
-      "captionLeft": 20,
-      "backgroundImage": "Jackson-1.png",
-      "foregroundColor": "#267bb9",
-      "waveBottom": 500,
-      "waveTop": 350,
-      "waveColor": "#facf09"
-    },
-
-    "Instagram - Jackson-2.png": {
-      "width": 720,
-      "height": 720,
-      "captionAlign": "right",
-      "captionFont": "300 40px 'Oswald'",
-      "captionLineHeight": 52,
-      "captionLineSpacing": 7,
-      "pattern": "wave",
-      "captionTop": 60,
-      "captionRight": 700,
-      "captionLeft": 20,
-      "backgroundImage": "Jackson-2.png",
-      "foregroundColor": "#267bb9",
-      "waveBottom": 500,
-      "waveTop": 350,
-      "waveColor": "#facf09"
-    },
-
-    "Instagram - Jackson-3.png": {
-      "width": 720,
-      "height": 720,
-      "captionAlign": "right",
-      "captionFont": "300 40px 'Oswald'",
-      "captionLineHeight": 52,
-      "captionLineSpacing": 7,
-      "pattern": "wave",
-      "captionTop": 60,
-      "captionRight": 700,
-      "captionLeft": 20,
-      "backgroundImage": "Jackson-3.png",
-      "foregroundColor": "#267bb9",
-      "waveBottom": 500,
-      "waveTop": 350,
-      "waveColor": "#facf09"
-    },
-
-    "Instagram - Jackson-4.png": {
-      "width": 720,
-      "height": 720,
-      "captionAlign": "right",
-      "captionFont": "300 40px 'Oswald'",
-      "captionLineHeight": 52,
-      "captionLineSpacing": 7,
-      "pattern": "wave",
-      "captionTop": 60,
-      "captionRight": 700,
-      "captionLeft": 20,
-      "backgroundImage": "Jackson-4.png",
-      "foregroundColor": "#267bb9",
-      "waveBottom": 500,
-      "waveTop": 350,
-      "waveColor": "#facf09"
-    },
-
-
-
-
-    "Instagram - mariela.png": {
-      "width": 720,
-      "height": 720,
-      "captionAlign": "right",
-      "captionFont": "300 40px 'Oswald'",
-      "captionLineHeight": 52,
-      "captionLineSpacing": 7,
-      "pattern": "wave",
-      "captionTop": 60,
-      "captionRight": 700,
-      "captionLeft": 20,
-      "backgroundImage": "mariela.png",
-      "foregroundColor": "#267bb9",
-      "waveBottom": 500,
-      "waveTop": 350,
-      "waveColor": "#facf09"
-    },
-
-  "Instagram - ted-goia.png": {
+  "Instagram - american male": {
     "width": 720,
     "height": 720,
     "captionAlign": "right",
@@ -204,134 +111,27 @@
     "captionTop": 60,
     "captionRight": 700,
     "captionLeft": 20,
-    "backgroundImage": "ted-goia.png",
-    "foregroundColor": "#267bb9",
-    "waveBottom": 500,
-    "waveTop": 250,
-    "waveColor": "#267bb9"
-  },
-
-  "Instagram - vijay.png": {
-    "width": 720,
-    "height": 720,
-    "captionAlign": "right",
-    "captionFont": "300 40px 'Oswald'",
-    "captionLineHeight": 52,
-    "captionLineSpacing": 7,
-    "pattern": "wave",
-    "captionTop": 60,
-    "captionRight": 700,
-    "captionLeft": 20,
-    "backgroundImage": "vijay.png",
-    "foregroundColor": "#267bb9",
-    "waveBottom": 500,
-    "waveTop": 250,
-    "waveColor": "#5ab251"
-  },
-
-  "Instagram - vijay2.png": {
-    "width": 720,
-    "height": 720,
-    "captionAlign": "right",
-    "captionFont": "300 40px 'Oswald'",
-    "captionLineHeight": 52,
-    "captionLineSpacing": 7,
-    "pattern": "wave",
-    "captionTop": 60,
-    "captionRight": 700,
-    "captionLeft": 20,
-    "backgroundImage": "vijay2.png",
+    "backgroundImage": "american-male.png",
     "foregroundColor": "#facf09",
-    "waveBottom": 500,
-    "waveTop": 250,
+    "waveBottom": 450,
+    "waveTop": 350,
     "waveColor": "#facf09"
   },
 
-  "Instagram - larry-brilliant.png": {
-    "width": 720,
-    "height": 720,
+  "Sonic Sidebar - american-male.png": {
     "captionAlign": "right",
     "captionFont": "300 40px 'Oswald'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
-    "pattern": "wave",
-    "captionTop": 60,
-    "captionRight": 700,
-    "captionLeft": 20,
-    "backgroundImage": "larry-brilliant.png",
-    "foregroundColor": "#267bb9",
-    "waveBottom": 500,
-    "waveTop": 250,
-    "waveColor": "#5ab251"
-  },
-
-  "Sonic Sidebar - Jackson": {
-    "captionAlign": "left",
-    "captionFont": "300 50px 'Oswald'",
-    "captionLineHeight": 52,
-    "captionLineSpacing": 7,
-
-    "captionTop": 300,
-    "captionRight": 500,
-    "captionLeft": 60,
-    "backgroundImage": "jackson-ss.png",
-    "foregroundColor": "#facf09",
-    "waveBottom": 700,
-    "waveTop": 550,
-    "waveColor": "#facf09"
-  },
-
-  "Sonic Sidebar - Mark of Trump": {
-    "captionAlign": "right",
-    "captionFont": "300 40px 'Oswald'",
-    "captionLineHeight": 52,
-    "captionLineSpacing": 7,
-
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 750,
-    "backgroundImage": "trump.png",
+    "backgroundImage": "american-male-ss.png",
     "foregroundColor": "#facf09",
-    "waveBottom": 500,
-    "waveTop": 300,
-    "waveColor": "#facf09"
-  },
-
-  "Sonic Sidebar - Spalding": {
-    "captionAlign": "right",
-    "captionFont": "300 40px 'Oswald'",
-    "captionLineHeight": 52,
-    "captionLineSpacing": 7,
-
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 750,
-    "backgroundImage": "TTBOOK.png",
-    "foregroundColor": "#2e2d2e",
     "waveBottom": 550,
     "waveTop": 450,
-    "waveColor": "#2e2d2e"
+    "waveColor": "#facf09"
   },
-
-  "Sonic Sidebar - Christianberry": {
-    "captionAlign": "right",
-    "captionFont": "300 40px 'Oswald'",
-    "captionLineHeight": 52,
-    "captionLineSpacing": 7,
-
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 750,
-    "backgroundImage": "christianberry-ss.png",
-    "foregroundColor": "#2e2d2e",
-    "waveBottom": 550,
-    "waveTop": 450,
-    "waveColor": "#5ab251",
-    "pattern": "curve"
-  },
-
-
-
 
   "Basic": {
     "backgroundColor": "#eee",
