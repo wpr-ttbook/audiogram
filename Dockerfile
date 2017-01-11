@@ -20,3 +20,9 @@ WORKDIR /home/audiogram/audiogram
 
 # Install dependencies
 RUN npm install
+
+# Execute
+
+FROM scratch
+ADD hello /
+CMD ["/hello"]
