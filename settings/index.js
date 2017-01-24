@@ -20,7 +20,7 @@ var path = require("path");
 
 module.exports = {
   workingDirectory: path.join(__dirname, "..", "tmp"),
-  redisHost: "127.0.0.1",
+  redisHost: "wpr-audiogram.u9r0n4.ng.0001.usw2.cache.amazonaws.com",
   s3Bucket: "wpr-audiogram",
   worker: true,
   fonts: [
