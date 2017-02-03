@@ -6,33 +6,21 @@
     "maxDuration": 300,
     "samplesPerFrame": 128,
     "pattern": "wave",
-    "waveTop": 150,
-    "waveBottom": 420,
-    "captionTop": 470,
-    "captionFont": "300 52px 'Source Sans Pro'",
+    "waveTop": 220,
+    "waveBottom": 600,
+    "captionTop": 100,
+    "captionFont": "600 52px 'Source Sans Pro'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
-    "captionLeft": 0,
-    "captionRight": 720
+    "captionLeft": 20,
+    "captionRight": 1260
   },
 
   "TTBOOK": {
-    "width": 720,
-    "height": 720,
-    "captionAlign": "center",
-    "captionFont": "300 50px 'DroidSerif'",
-    "captionLineHeight": 60,
-    "captionLineSpacing": 7,
-    "captionTop": 550,
-    "captionRight": 700,
-    "captionLeft": 20,
-    "backgroundImage": "TTBOOK-blank.png",
-    "foregroundColor": "#facf09",
-    "waveBottom": 500,
-    "waveTop": 250,
-    "waveColor": "#267bb9"
+    "backgroundImage": "background.png",
+    "foregroundColor": "#000000",
+    "waveColor": "#facf09"
   },
-
 
     "Furniture - Deep Tracks": {
       "captionAlign": "right",
@@ -66,6 +54,21 @@
       "waveColor": "#5ab251"
     },
 
+    "Furniture - dangerous ideas": {
+      "captionAlign": "right",
+      "captionFont": "600 70px 'Oswald'",
+      "captionLineHeight": 60,
+      "captionLineSpacing": 7,
+
+      "captionTop": 25,
+      "captionRight": 1220,
+      "captionLeft": 500,
+      "backgroundImage": "dangerous-ideas.png",
+      "foregroundColor": "#FFFFFF",
+      "waveBottom": 550,
+      "waveTop": 400,
+      "waveColor": "#267bb9"
+    },
 
     "Furniture - dangerous ideas": {
       "captionAlign": "right",
@@ -83,42 +86,7 @@
       "waveColor": "#267bb9"
     },
 
-
-    "Furniture - dangerous ideas": {
-      "captionAlign": "right",
-      "captionFont": "600 70px 'Oswald'",
-      "captionLineHeight": 60,
-      "captionLineSpacing": 7,
-
-      "captionTop": 25,
-      "captionRight": 1220,
-      "captionLeft": 500,
-      "backgroundImage": "dangerous-ideas.png",
-      "foregroundColor": "#FFFFFF",
-      "waveBottom": 550,
-      "waveTop": 400,
-      "waveColor": "#267bb9"
-    },
-
-  "Instagram - american male": {
-    "width": 720,
-    "height": 720,
-    "captionAlign": "right",
-    "captionFont": "300 40px 'Oswald'",
-    "captionLineHeight": 52,
-    "captionLineSpacing": 7,
-    "pattern": "wave",
-    "captionTop": 60,
-    "captionRight": 700,
-    "captionLeft": 20,
-    "backgroundImage": "american-male.png",
-    "foregroundColor": "#facf09",
-    "waveBottom": 450,
-    "waveTop": 350,
-    "waveColor": "#facf09"
-  },
-
-  "Sonic Sidebar - american-male.png": {
+  "Sonic Sidebar - small-place.png": {
     "captionAlign": "right",
     "captionFont": "300 40px 'Oswald'",
     "captionLineHeight": 52,
@@ -126,11 +94,71 @@
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 750,
-    "backgroundImage": "american-male-ss.png",
-    "foregroundColor": "#facf09",
+    "backgroundImage": "small-place.png",
+    "foregroundColor": "#5ab251",
+    "waveBottom": 400,
+    "waveTop": 200,
+    "waveColor": "#5ab251"
+  },
+
+  "Sonic Sidebar - empathy.png": {
+    "captionAlign": "right",
+    "captionFont": "300 40px 'Oswald'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 750,
+    "backgroundImage": "empathy.png",
+    "foregroundColor": "#5ab251",
     "waveBottom": 550,
-    "waveTop": 450,
-    "waveColor": "#facf09"
+    "waveTop": 250,
+    "waveColor": "#d33b31"
+  },
+
+  "Sonic Sidebar - dome.png": {
+    "captionAlign": "right",
+    "captionFont": "300 40px 'Oswald'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 750,
+    "backgroundImage": "dome.png",
+    "foregroundColor": "#5ab251",
+    "waveBottom": 550,
+    "waveTop": 250,
+    "waveColor": "#5ab251"
+  },
+
+  "Sonic Sidebar - workplace.png": {
+    "captionAlign": "right",
+    "captionFont": "300 40px 'Oswald'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 750,
+    "backgroundImage": "workplace.png",
+    "foregroundColor": "#5ab251",
+    "waveBottom": 550,
+    "waveTop": 250,
+    "waveColor": "#d33b31"
+  },
+
+  "Sonic Sidebar - trump.png": {
+    "captionAlign": "right",
+    "captionFont": "300 40px 'Oswald'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 750,
+    "backgroundImage": "trump.png",
+    "foregroundColor": "#fa5a28",
+    "waveBottom": 550,
+    "waveTop": 250,
+    "waveColor": "#fa5a28"
   },
 
   "Basic": {
