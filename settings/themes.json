@@ -6,131 +6,57 @@
     "maxDuration": 300,
     "samplesPerFrame": 128,
     "pattern": "wave",
-    "waveTop": 150,
-    "waveBottom": 420,
-    "captionTop": 470,
-    "captionFont": "300 52px 'Source Sans Pro'",
+    "waveTop": 220,
+    "waveBottom": 600,
+    "captionTop": 100,
+    "captionFont": "600 52px 'Source Sans Pro'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
-    "captionLeft": 0,
-    "captionRight": 720
-  },
-
-  "TTBOOK": {
-    "width": 720,
-    "height": 720,
-    "captionAlign": "center",
-    "captionFont": "300 50px 'DroidSerif'",
-    "captionLineHeight": 60,
-    "captionLineSpacing": 7,
-    "captionTop": 550,
-    "captionRight": 700,
     "captionLeft": 20,
-    "backgroundImage": "TTBOOK-blank.png",
-    "foregroundColor": "#facf09",
-    "waveBottom": 500,
-    "waveTop": 250,
-    "waveColor": "#267bb9"
+    "captionRight": 1260
   },
 
-
-    "Furniture - Deep Tracks": {
-      "captionAlign": "right",
-      "captionFont": "600 70px 'Oswald'",
-      "captionLineHeight": 60,
-      "captionLineSpacing": 7,
-
-      "captionTop": 25,
-      "captionRight": 1220,
-      "captionLeft": 500,
-      "backgroundImage": "deep-tracks.png",
-      "foregroundColor": "#000000",
-      "waveBottom": 550,
-      "waveTop": 400,
-      "waveColor": "#facf09"
-    },
-
-    "Furniture - BookMarks": {
-      "captionAlign": "right",
-      "captionFont": "600 70px 'Oswald'",
-      "captionLineHeight": 60,
-      "captionLineSpacing": 7,
-
-      "captionTop": 25,
-      "captionRight": 1220,
-      "captionLeft": 500,
-      "backgroundImage": "bookmarks.png",
-      "foregroundColor": "#FFFFFF",
-      "waveBottom": 550,
-      "waveTop": 400,
-      "waveColor": "#5ab251"
-    },
-
-
-    "Furniture - dangerous ideas": {
-      "captionAlign": "right",
-      "captionFont": "600 70px 'Oswald'",
-      "captionLineHeight": 60,
-      "captionLineSpacing": 7,
-
-      "captionTop": 25,
-      "captionRight": 1220,
-      "captionLeft": 500,
-      "backgroundImage": "dangerous-ideas.png",
-      "foregroundColor": "#FFFFFF",
-      "waveBottom": 550,
-      "waveTop": 400,
-      "waveColor": "#267bb9"
-    },
-
-
-    "Furniture - dangerous ideas": {
-      "captionAlign": "right",
-      "captionFont": "600 70px 'Oswald'",
-      "captionLineHeight": 60,
-      "captionLineSpacing": 7,
-
-      "captionTop": 25,
-      "captionRight": 1220,
-      "captionLeft": 500,
-      "backgroundImage": "dangerous-ideas.png",
-      "foregroundColor": "#FFFFFF",
-      "waveBottom": 550,
-      "waveTop": 400,
-      "waveColor": "#267bb9"
-    },
-
-  "Instagram - american male": {
-    "width": 720,
-    "height": 720,
-    "captionAlign": "right",
-    "captionFont": "300 40px 'Oswald'",
-    "captionLineHeight": 52,
-    "captionLineSpacing": 7,
+  "WPR Orange": {
+    "captionAlign": "left",
+    "backgroundImage": "WPR-orange.png",
+    "foregroundColor": "#000000",
+    "waveColor": "#f57b20",
+    "captionTop": 20,
+    "captionLeft": 20,
+    "captionBottom": 180,
     "pattern": "wave",
-    "captionTop": 60,
-    "captionRight": 700,
-    "captionLeft": 20,
-    "backgroundImage": "american-male.png",
-    "foregroundColor": "#facf09",
-    "waveBottom": 450,
-    "waveTop": 350,
-    "waveColor": "#facf09"
+    "waveTop": 150,
+    "waveBottom": 530
   },
 
-  "Sonic Sidebar - american-male.png": {
-    "captionAlign": "right",
-    "captionFont": "300 40px 'Oswald'",
-    "captionLineHeight": 52,
-    "captionLineSpacing": 7,
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 750,
-    "backgroundImage": "american-male-ss.png",
-    "foregroundColor": "#facf09",
-    "waveBottom": 550,
-    "waveTop": 450,
-    "waveColor": "#facf09"
+  "WPR Yellow": {
+    "backgroundImage": "WPR-yellow.png",
+    "foregroundColor": "#000000",
+    "waveColor": "#fdb813",
+    "captionAlign": "left",
+    "waveTop": 120,
+    "waveBottom": 500,
+    "captionTop": 20,
+    "captionLeft": 20,
+    "captionBottom": 180,
+    "pattern": "pixel",
+    "waveTop": 150,
+    "waveBottom": 530
+  },
+
+  "WPR Red": {
+    "backgroundImage": "WPR-red.png",
+    "foregroundColor": "#000000",
+    "captionAlign": "left",
+    "waveColor": "#b91823",
+    "waveTop": 120,
+    "waveBottom": 500,
+    "captionTop": 20,
+    "captionLeft": 20,
+    "captionBottom": 180,
+    "pattern": "bars",
+    "waveTop": 150,
+    "waveBottom": 530
   },
 
   "Basic": {
