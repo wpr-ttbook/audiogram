@@ -16,47 +16,149 @@
     "captionRight": 1260
   },
 
-  "WPR Orange": {
-    "captionAlign": "left",
-    "backgroundImage": "WPR-orange.png",
+  "TTBOOK": {
+    "backgroundImage": "background.png",
     "foregroundColor": "#000000",
-    "waveColor": "#f57b20",
-    "captionTop": 20,
-    "captionLeft": 20,
-    "captionBottom": 180,
-    "pattern": "wave",
-    "waveTop": 150,
-    "waveBottom": 530
+    "waveColor": "#facf09"
   },
 
-  "WPR Yellow": {
-    "backgroundImage": "WPR-yellow.png",
-    "foregroundColor": "#000000",
-    "waveColor": "#fdb813",
-    "captionAlign": "left",
-    "waveTop": 120,
-    "waveBottom": 500,
-    "captionTop": 20,
-    "captionLeft": 20,
-    "captionBottom": 180,
-    "pattern": "pixel",
-    "waveTop": 150,
-    "waveBottom": 530
+    "Furniture - Deep Tracks": {
+      "captionAlign": "right",
+      "captionFont": "600 70px 'Oswald'",
+      "captionLineHeight": 60,
+      "captionLineSpacing": 7,
+
+      "captionTop": 25,
+      "captionRight": 1220,
+      "captionLeft": 500,
+      "backgroundImage": "deep-tracks.png",
+      "foregroundColor": "#000000",
+      "waveBottom": 550,
+      "waveTop": 400,
+      "waveColor": "#facf09"
+    },
+
+    "Furniture - BookMarks": {
+      "captionAlign": "right",
+      "captionFont": "600 70px 'Oswald'",
+      "captionLineHeight": 60,
+      "captionLineSpacing": 7,
+
+      "captionTop": 25,
+      "captionRight": 1220,
+      "captionLeft": 500,
+      "backgroundImage": "bookmarks.png",
+      "foregroundColor": "#FFFFFF",
+      "waveBottom": 550,
+      "waveTop": 400,
+      "waveColor": "#5ab251"
+    },
+
+    "Furniture - dangerous ideas": {
+      "captionAlign": "right",
+      "captionFont": "600 70px 'Oswald'",
+      "captionLineHeight": 60,
+      "captionLineSpacing": 7,
+
+      "captionTop": 25,
+      "captionRight": 1220,
+      "captionLeft": 500,
+      "backgroundImage": "dangerous-ideas.png",
+      "foregroundColor": "#FFFFFF",
+      "waveBottom": 550,
+      "waveTop": 400,
+      "waveColor": "#267bb9"
+    },
+
+    "Furniture - dangerous ideas": {
+      "captionAlign": "right",
+      "captionFont": "600 70px 'Oswald'",
+      "captionLineHeight": 60,
+      "captionLineSpacing": 7,
+
+      "captionTop": 25,
+      "captionRight": 1220,
+      "captionLeft": 500,
+      "backgroundImage": "dangerous-ideas.png",
+      "foregroundColor": "#FFFFFF",
+      "waveBottom": 550,
+      "waveTop": 400,
+      "waveColor": "#267bb9"
+    },
+
+  "Sonic Sidebar - small-place.png": {
+    "captionAlign": "right",
+    "captionFont": "300 40px 'Oswald'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 750,
+    "backgroundImage": "small-place.png",
+    "foregroundColor": "#5ab251",
+    "waveBottom": 400,
+    "waveTop": 200,
+    "waveColor": "#5ab251"
   },
 
-  "WPR Red": {
-    "backgroundImage": "WPR-red.png",
-    "foregroundColor": "#000000",
-    "captionAlign": "left",
-    "waveColor": "#b91823",
-    "waveTop": 120,
-    "waveBottom": 500,
-    "captionTop": 20,
-    "captionLeft": 20,
-    "captionBottom": 180,
-    "pattern": "bars",
-    "waveTop": 150,
-    "waveBottom": 530
+  "Sonic Sidebar - empathy.png": {
+    "captionAlign": "right",
+    "captionFont": "300 40px 'Oswald'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 750,
+    "backgroundImage": "empathy.png",
+    "foregroundColor": "#5ab251",
+    "waveBottom": 550,
+    "waveTop": 250,
+    "waveColor": "#d33b31"
+  },
+
+  "Sonic Sidebar - dome.png": {
+    "captionAlign": "right",
+    "captionFont": "300 40px 'Oswald'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 750,
+    "backgroundImage": "dome.png",
+    "foregroundColor": "#5ab251",
+    "waveBottom": 550,
+    "waveTop": 250,
+    "waveColor": "#5ab251"
+  },
+
+  "Sonic Sidebar - workplace.png": {
+    "captionAlign": "right",
+    "captionFont": "300 40px 'Oswald'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 750,
+    "backgroundImage": "workplace.png",
+    "foregroundColor": "#5ab251",
+    "waveBottom": 550,
+    "waveTop": 250,
+    "waveColor": "#d33b31"
+  },
+
+  "Sonic Sidebar - trump.png": {
+    "captionAlign": "right",
+    "captionFont": "300 40px 'Oswald'",
+    "captionLineHeight": 52,
+    "captionLineSpacing": 7,
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 750,
+    "backgroundImage": "trump.png",
+    "foregroundColor": "#fa5a28",
+    "waveBottom": 550,
+    "waveTop": 250,
+    "waveColor": "#fa5a28"
   },
 
   "Basic": {
