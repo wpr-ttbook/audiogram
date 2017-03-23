@@ -70,7 +70,7 @@
       "waveColor": "#267bb9"
     },
 
-    "Sonic Sidebar - drugs.png": {
+    "Sonic Sidebar - internet1.png": {
       "captionAlign": "right",
       "captionFont": "300 40px 'Oswald'",
       "captionLineHeight": 52,
@@ -78,15 +78,15 @@
       "captionTop": 60,
       "captionRight": 1220,
       "captionLeft": 750,
-      "backgroundImage": "drugs.png",
+      "backgroundImage": "internet1.png",
       "foregroundColor": "#facf09",
       "waveBottom": 550,
       "waveTop": 250,
       "waveColor": "#facf09",
-      "pattern": "line"
+      "pattern": "pixel"
     },
 
-    "Sonic Sidebar - drugs2.png": {
+    "Sonic Sidebar - internet2.png": {
       "captionAlign": "right",
       "captionFont": "300 40px 'Oswald'",
       "captionLineHeight": 52,
@@ -94,14 +94,15 @@
       "captionTop": 60,
       "captionRight": 1220,
       "captionLeft": 750,
-      "backgroundImage": "drugs2.png",
-      "foregroundColor": "#89235f",
+      "backgroundImage": "internet2.png",
+      "foregroundColor": "#1d2353",
       "waveBottom": 550,
       "waveTop": 250,
-      "waveColor": "#89235f"
+      "waveColor": "#1d2353",
+      "pattern": "pixel"
     },
 
-    "Sonic Sidebar - drugs3.png": {
+    "Sonic Sidebar - internet3.png": {
       "captionAlign": "right",
       "captionFont": "300 40px 'Oswald'",
       "captionLineHeight": 52,
@@ -109,14 +110,15 @@
       "captionTop": 60,
       "captionRight": 1220,
       "captionLeft": 750,
-      "backgroundImage": "drugs3.png",
-      "foregroundColor": "#f36136",
+      "backgroundImage": "internet3.png",
+      "foregroundColor": "#e7ff1c",
       "waveBottom": 550,
       "waveTop": 250,
-      "waveColor": "#f36136"
+      "waveColor": "#e7ff1c",
+      "pattern": "pixel"
     },
 
-    "Sonic Sidebar - drugs4.png": {
+    "Sonic Sidebar - internet4.png": {
       "captionAlign": "right",
       "captionFont": "300 40px 'Oswald'",
       "captionLineHeight": 52,
@@ -124,14 +126,15 @@
       "captionTop": 60,
       "captionRight": 1220,
       "captionLeft": 750,
-      "backgroundImage": "drugs4.png",
-      "foregroundColor": "#baf4ba",
+      "backgroundImage": "internet4.png",
+      "foregroundColor": "#fa1507",
       "waveBottom": 550,
       "waveTop": 250,
-      "waveColor": "#baf4ba"
+      "waveColor": "#fa1507",
+      "pattern": "pixel"
     },
 
-    "Sonic Sidebar - drugs5.png": {
+    "Sonic Sidebar - internet5.png": {
       "captionAlign": "right",
       "captionFont": "300 40px 'Oswald'",
       "captionLineHeight": 52,
@@ -139,15 +142,15 @@
       "captionTop": 60,
       "captionRight": 1220,
       "captionLeft": 750,
-      "backgroundImage": "drugs5.png",
-      "foregroundColor": "#d7faf4",
+      "backgroundImage": "internet5.png",
+      "foregroundColor": "#90ff0d",
       "waveBottom": 550,
       "waveTop": 250,
-      "waveColor": "#d7faf4",
-      "pattern": "line"
+      "waveColor": "#90ff0d",
+      "pattern": "pixel"
     },
 
-    "Sonic Sidebar - drugs6.png": {
+    "Sonic Sidebar - internet6.png": {
       "captionAlign": "right",
       "captionFont": "300 40px 'Oswald'",
       "captionLineHeight": 52,
@@ -155,11 +158,12 @@
       "captionTop": 60,
       "captionRight": 1220,
       "captionLeft": 750,
-      "backgroundImage": "drugs6.png",
-      "foregroundColor": "#763164",
+      "backgroundImage": "internet6.png",
+      "foregroundColor": "#facf09",
       "waveBottom": 550,
       "waveTop": 250,
-      "waveColor": "#763164"
+      "waveColor": "#facf09",
+      "pattern": "pixel"
     },
 
 
