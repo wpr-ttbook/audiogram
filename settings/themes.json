@@ -83,16 +83,7 @@
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
   },
-  "Background image with top right text": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
-    "foregroundColor": "#fc0",
-    "waveBottom": 660,
-    "waveTop": 320
-  },
+
   "Bars": {
     "pattern": "bars",
     "foregroundColor": "#d84a4a"
@@ -144,17 +135,4 @@
     "backgroundColor": "#ecd078",
     "foregroundColor": "#c02942",
     "pattern": "pixel"
-  },
-  "Square with background image": {
-    "width": 640,
-    "height": 640,
-    "samplesPerFrame": 64,
-    "waveTop": 20,
-    "waveBottom": 300,
-    "captionTop": 340,
-    "captionLeft": 20,
-    "captionRight": 620,
-    "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
   }
-}
