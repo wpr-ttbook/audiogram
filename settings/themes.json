@@ -7,7 +7,7 @@
     "samplesPerFrame": 128,
     "pattern": "wave",
     "waveTop": 220,
-    "waveBottom": 600,
+    "waveBottom": 500,
     "captionTop": 100,
     "captionFont": "600 52px 'Source Sans Pro'",
     "captionLineHeight": 52,
@@ -16,10 +16,40 @@
     "captionRight": 1260
   },
 
-  "TTBOOK": {
-    "backgroundImage": "background.png",
+  "TTBOOK Yellow": {
+    "backgroundImage": "ttbook_yellow.png",
     "foregroundColor": "#000000",
     "waveColor": "#facf09"
+  },
+
+  "TTBOOK Blue": {
+    "backgroundImage": "ttbook_blue.png",
+    "foregroundColor": "#000000",
+    "waveColor": "#267bb9"
+  },
+
+  "TTBOOK Green": {
+    "backgroundImage": "ttbook_green.png",
+    "foregroundColor": "#000000",
+    "waveColor": "#5ab251"
+  },
+
+  "TTBOOK Yellow/Black": {
+    "backgroundImage": "ttbook_yellowblack.png",
+    "foregroundColor": "#000000",
+    "waveColor": "#2e2d2e"
+  },
+
+  "TTBOOK Blue/Black": {
+    "backgroundImage": "ttbook_blueblack.png",
+    "foregroundColor": "#000000",
+    "waveColor": "#2e2d2e"
+  },
+
+  "TTBOOK Green/Black": {
+    "backgroundImage": "ttbook_greenblack.png",
+    "foregroundColor": "#000000",
+    "waveColor": "#2e2d2e"
   },
 
     "Furniture - Deep Tracks": {
@@ -70,7 +100,7 @@
       "waveColor": "#267bb9"
     },
 
-    "Sonic Sidebar - internet1.png": {
+    "Sonic Sidebar - mad-as-hell1.png": {
       "captionAlign": "right",
       "captionFont": "300 40px 'Oswald'",
       "captionLineHeight": 52,
@@ -78,181 +108,11 @@
       "captionTop": 60,
       "captionRight": 1220,
       "captionLeft": 750,
-      "backgroundImage": "internet1.png",
+      "backgroundImage": "mad-as-hell1.png",
       "foregroundColor": "#facf09",
       "waveBottom": 550,
       "waveTop": 250,
       "waveColor": "#facf09",
-      "pattern": "pixel"
-    },
-
-    "Sonic Sidebar - internet2.png": {
-      "captionAlign": "right",
-      "captionFont": "300 40px 'Oswald'",
-      "captionLineHeight": 52,
-      "captionLineSpacing": 7,
-      "captionTop": 60,
-      "captionRight": 1220,
-      "captionLeft": 750,
-      "backgroundImage": "internet2.png",
-      "foregroundColor": "#1d2353",
-      "waveBottom": 550,
-      "waveTop": 250,
-      "waveColor": "#1d2353",
-      "pattern": "pixel"
-    },
-
-    "Sonic Sidebar - internet3.png": {
-      "captionAlign": "right",
-      "captionFont": "300 40px 'Oswald'",
-      "captionLineHeight": 52,
-      "captionLineSpacing": 7,
-      "captionTop": 60,
-      "captionRight": 1220,
-      "captionLeft": 750,
-      "backgroundImage": "internet3.png",
-      "foregroundColor": "#e7ff1c",
-      "waveBottom": 550,
-      "waveTop": 250,
-      "waveColor": "#e7ff1c",
-      "pattern": "pixel"
-    },
-
-    "Sonic Sidebar - internet4.png": {
-      "captionAlign": "right",
-      "captionFont": "300 40px 'Oswald'",
-      "captionLineHeight": 52,
-      "captionLineSpacing": 7,
-      "captionTop": 60,
-      "captionRight": 1220,
-      "captionLeft": 750,
-      "backgroundImage": "internet4.png",
-      "foregroundColor": "#fa1507",
-      "waveBottom": 550,
-      "waveTop": 250,
-      "waveColor": "#fa1507",
-      "pattern": "pixel"
-    },
-
-    "Sonic Sidebar - internet5.png": {
-      "captionAlign": "right",
-      "captionFont": "300 40px 'Oswald'",
-      "captionLineHeight": 52,
-      "captionLineSpacing": 7,
-      "captionTop": 60,
-      "captionRight": 1220,
-      "captionLeft": 750,
-      "backgroundImage": "internet5.png",
-      "foregroundColor": "#90ff0d",
-      "waveBottom": 550,
-      "waveTop": 250,
-      "waveColor": "#90ff0d",
-      "pattern": "pixel"
-    },
-
-    "Sonic Sidebar - internet6.png": {
-      "captionAlign": "right",
-      "captionFont": "300 40px 'Oswald'",
-      "captionLineHeight": 52,
-      "captionLineSpacing": 7,
-      "captionTop": 60,
-      "captionRight": 1220,
-      "captionLeft": 750,
-      "backgroundImage": "internet6.png",
-      "foregroundColor": "#facf09",
-      "waveBottom": 550,
-      "waveTop": 250,
-      "waveColor": "#facf09",
-      "pattern": "pixel"
-    },
-
-
-
-  "Basic": {
-    "backgroundColor": "#eee",
-    "foregroundColor": "#de1e3d"
-  },
-  "Neon": {
-    "backgroundColor": "#556270",
-    "foregroundColor": "#c7f464"
-  },
-  "Three colors": {
-    "backgroundColor": "#eee",
-    "captionColor": "#515151",
-    "waveColor": "#00b4ff"
-  },
-  "Background image with top right text": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
-    "foregroundColor": "#fc0",
-    "waveBottom": 660,
-    "waveTop": 320
-  },
-  "Bars": {
-    "pattern": "bars",
-    "foregroundColor": "#d84a4a"
-  },
-  "Rounded bars with bottom left text": {
-    "pattern": "roundBars",
-    "foregroundColor": "#d84a4a",
-    "captionAlign": "left",
-    "captionLeft": 60,
-    "captionRight": 640,
-    "captionBottom": 660,
-    "captionTop": null
-  },
-  "Line": {
-    "backgroundColor": "#edc951",
-    "foregroundColor": "#00a0b0",
-    "pattern": "line"
-  },
-  "Curve": {
-    "backgroundColor": "#00a0b0",
-    "foregroundColor": "#edc951",
-    "pattern": "curve"
-  },
-  "Bricks": {
-    "backgroundColor": "#8771aa",
-    "foregroundColor": "#fff",
-    "pattern": "bricks"
-  },
-  "Equalizer on the bottom": {
-    "backgroundColor": "#222",
-    "foregroundColor": "#fff",
-    "pattern": "equalizer",
-    "captionTop": 40,
-    "captionBottom": 380,
-    "waveTop": 420,
-    "waveBottom": 720
-  },
-  "Bold italic orange": {
-    "captionAlign": "right",
-    "captionTop": null,
-    "captionBottom": 660,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundColor": "#fd5a1e",
-    "waveColor": "#fff",
-    "captionFont": "bold italic 52px 'Source Sans Pro'"
-  },
-  "Pixelated": {
-    "backgroundColor": "#ecd078",
-    "foregroundColor": "#c02942",
-    "pattern": "pixel"
-  },
-  "Square with background image": {
-    "width": 640,
-    "height": 640,
-    "samplesPerFrame": 64,
-    "waveTop": 20,
-    "waveBottom": 300,
-    "captionTop": 340,
-    "captionLeft": 20,
-    "captionRight": 620,
-    "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
+      "pattern": "wave"
   }
 }
