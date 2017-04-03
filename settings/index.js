@@ -29,5 +29,10 @@ module.exports = {
   { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Bold.ttf"), weight: "bold" },
   { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-Italic.ttf"), style: "italic" },
   { family: "Source Sans Pro", file: path.join(__dirname, "fonts", "SourceSansPro-BoldItalic.ttf"), weight: "bold", style: "italic" }
+  { family: "Proxima Nova", file: path.join(__dirname, "fonts", "ProximaNova-Reg-webfont.ttf") },
+  { family: "Proxima Nova", file: path.join(__dirname, "fonts", "ProximaNova-Light-webfont.ttf"), weight: 300 },
+  { family: "Proxima Nova", file: path.join(__dirname, "fonts", "ProximaNova-Bold-webfont.ttf"), weight: "bold" },
+  { family: "Proxima Nova", file: path.join(__dirname, "fonts", "ProximaNova-LightIt-webfont.ttf"), style: "italic" },
+  { family: "Proxima Nova", file: path.join(__dirname, "fonts", "ProximaNova-BoldIt-webfont.ttf"), weight: "bold", style: "italic" }
 ]
 };
