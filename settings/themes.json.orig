@@ -7,13 +7,20 @@
     "samplesPerFrame": 128,
     "pattern": "wave",
     "waveTop": 220,
+<<<<<<< HEAD
+    "waveBottom": 600,
+    "captionTop": 100,
+    "captionFont": "600 52px 'Proxima Nova'",
+=======
     "waveBottom": 500,
     "captionTop": 100,
     "captionFont": "600 52px 'Source Sans Pro'",
+>>>>>>> master
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 20,
     "captionRight": 1260
+<<<<<<< HEAD
   },
 
   "WPR Orange-White": {
@@ -68,6 +75,7 @@
     "pattern": "bars",
     "waveTop": 150,
     "waveBottom": 530
+=======
   },
 
   "TTBOOK Yellow": {
@@ -168,6 +176,7 @@
       "waveTop": 250,
       "waveColor": "#facf09",
       "pattern": "wave"
+>>>>>>> master
   }
 
 }
