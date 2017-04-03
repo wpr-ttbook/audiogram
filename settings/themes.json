@@ -100,7 +100,7 @@
       "waveColor": "#267bb9"
     },
 
-    "Sonic Sidebar - mad-as-hell1.png": {
+    "Sonic Sidebar - default.png": {
       "captionAlign": "right",
       "captionFont": "300 40px 'Oswald'",
       "captionLineHeight": 52,
@@ -108,7 +108,7 @@
       "captionTop": 60,
       "captionRight": 1220,
       "captionLeft": 750,
-      "backgroundImage": "mad-as-hell1.png",
+      "backgroundImage": "background.png",
       "foregroundColor": "#facf09",
       "waveBottom": 550,
       "waveTop": 250,
