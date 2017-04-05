@@ -19,7 +19,7 @@
 var path = require("path");
 
 module.exports = {
-  workingDirectory: path.join(__dirname, "..", "tmp"),
+  workingDirectory: "/tmp/",
   redisHost: "127.0.0.1",
   s3Bucket: "audiogram-utility",
   worker: true,
