@@ -70,6 +70,36 @@
     "waveBottom": 530
   },
 
+  "WPR Yellow": {
+    "backgroundImage": "WPR-very-yellow.png",
+    "foregroundColor": "#000000",
+    "captionAlign": "left",
+    "waveColor": "#FFFFFF",
+    "waveTop": 120,
+    "waveBottom": 500,
+    "captionTop": 20,
+    "captionLeft": 20,
+    "captionBottom": 180,
+    "pattern": "bars",
+    "waveTop": 150,
+    "waveBottom": 530
+  },
+
+  "WPR Orange": {
+    "backgroundImage": "WPR-very-orange.png",
+    "foregroundColor": "#000000",
+    "captionAlign": "left",
+    "waveColor": "#FFFFFF",
+    "waveTop": 120,
+    "waveBottom": 500,
+    "captionTop": 20,
+    "captionLeft": 20,
+    "captionBottom": 180,
+    "pattern": "bars",
+    "waveTop": 150,
+    "waveBottom": 530
+  },
+
   "TTBOOK Yellow": {
     "backgroundImage": "ttbook_yellow.png",
     "foregroundColor": "#000000",
