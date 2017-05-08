@@ -57,7 +57,7 @@
 
   "WPR Red": {
     "backgroundImage": "WPR-red.png",
-    "foregroundColor": "#000000",
+    "foregroundColor": "#FFFFFF",
     "captionAlign": "left",
     "waveColor": "#FFFFFF",
     "waveTop": 120,
@@ -72,7 +72,7 @@
 
   "WPR Yellow": {
     "backgroundImage": "WPR-very-yellow.png",
-    "foregroundColor": "#000000",
+    "foregroundColor": "#FFFFFF",
     "captionAlign": "left",
     "waveColor": "#FFFFFF",
     "waveTop": 120,
@@ -87,7 +87,7 @@
 
   "WPR Orange": {
     "backgroundImage": "WPR-very-orange.png",
-    "foregroundColor": "#000000",
+    "foregroundColor": "#FFFFFF",
     "captionAlign": "left",
     "waveColor": "#FFFFFF",
     "waveTop": 120,
@@ -179,90 +179,17 @@
       "waveBottom": 550,
       "waveTop": 400,
       "waveColor": "#267bb9"
-    },
 
-    "Sonic Sidebar - analog1.png": {
-      "captionAlign": "right",
-      "captionLineHeight": 52,
-      "captionLineSpacing": 7,
-      "captionTop": 60,
-      "captionRight": 1220,
-      "captionLeft": 750,
-      "backgroundImage": "analog1.png",
-      "foregroundColor": "#facf09",
-      "waveBottom": 550,
-      "waveTop": 250,
-      "waveColor": "#facf09",
-      "pattern": "wave"
-  },
-
-  "Sonic Sidebar - analog2.png": {
-    "captionAlign": "right",
-    "captionLineHeight": 52,
-    "captionLineSpacing": 7,
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 750,
-    "backgroundImage": "analog2.png",
-    "foregroundColor": "#facf09",
-    "waveBottom": 550,
-    "waveTop": 250,
-    "waveColor": "#facf09",
-    "pattern": "wave"
 },
 
-"Sonic Sidebar - analog3.png": {
+"Sonic Sidebar - default": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
   "captionTop": 60,
   "captionRight": 1220,
-  "captionLeft": 750,
-  "backgroundImage": "analog3.png",
-  "foregroundColor": "#facf09",
-  "waveBottom": 550,
-  "waveTop": 250,
-  "waveColor": "#facf09",
-  "pattern": "wave"
-},
-"Sonic Sidebar - analog4.png": {
-  "captionAlign": "right",
-  "captionLineHeight": 52,
-  "captionLineSpacing": 7,
-  "captionTop": 60,
-  "captionRight": 1220,
-  "captionLeft": 750,
-  "backgroundImage": "analog4.png",
-  "foregroundColor": "#facf09",
-  "waveBottom": 550,
-  "waveTop": 250,
-  "waveColor": "#facf09",
-  "pattern": "wave"
-},
-
-"Sonic Sidebar - analog4.png": {
-  "captionAlign": "right",
-  "captionLineHeight": 52,
-  "captionLineSpacing": 7,
-  "captionTop": 60,
-  "captionRight": 1220,
-  "captionLeft": 750,
-  "backgroundImage": "analog4.png",
-  "foregroundColor": "#facf09",
-  "waveBottom": 550,
-  "waveTop": 250,
-  "waveColor": "#facf09",
-  "pattern": "wave"
-},
-
-"Sonic Sidebar - analog5.png": {
-  "captionAlign": "right",
-  "captionLineHeight": 52,
-  "captionLineSpacing": 7,
-  "captionTop": 60,
-  "captionRight": 1220,
-  "captionLeft": 750,
-  "backgroundImage": "analog5.png",
+  "captionLeft": 700,
+  "backgroundImage": "tbk-background.png",
   "foregroundColor": "#facf09",
   "waveBottom": 550,
   "waveTop": 250,
@@ -270,14 +197,15 @@
   "pattern": "wave"
 
 },
-"Sonic Sidebar - analog6.png": {
+
+"Sonic Sidebar - center": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
   "captionTop": 60,
   "captionRight": 1220,
-  "captionLeft": 750,
-  "backgroundImage": "analog6.png",
+  "captionLeft": 700,
+  "backgroundImage": "center.png",
   "foregroundColor": "#facf09",
   "waveBottom": 550,
   "waveTop": 250,
