@@ -198,15 +198,15 @@
 
 },
 
-"Sonic Sidebar - center": {
+"Sonic Sidebar - show special": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
   "captionTop": 60,
   "captionRight": 1220,
   "captionLeft": 700,
-  "backgroundImage": "center.png",
-  "foregroundColor": "#facf09",
+  "backgroundImage": "show.png",
+  "foregroundColor": "#FFFFFF",
   "waveBottom": 550,
   "waveTop": 250,
   "waveColor": "#facf09",
