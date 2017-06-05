@@ -182,22 +182,6 @@
 
 },
 
-"Sonic Sidebar - default": {
-  "captionAlign": "right",
-  "captionLineHeight": 52,
-  "captionLineSpacing": 7,
-  "captionTop": 60,
-  "captionRight": 1220,
-  "captionLeft": 700,
-  "backgroundImage": "tbk-background.png",
-  "foregroundColor": "#facf09",
-  "waveBottom": 550,
-  "waveTop": 250,
-  "waveColor": "#facf09",
-  "pattern": "wave"
-
-},
-
 "Sonic Sidebar - show special": {
   "captionAlign": "right",
   "captionLineHeight": 52,
@@ -210,7 +194,7 @@
   "waveBottom": 550,
   "waveTop": 250,
   "waveColor": "#facf09",
-  "pattern": "wave"
+  "pattern": "bars"
 }
 
 }
