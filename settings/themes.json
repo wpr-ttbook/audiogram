@@ -146,8 +146,8 @@
       "captionLeft": 500,
       "backgroundImage": "tbk-deep-tracks.png",
       "foregroundColor": "#000000",
-      "waveBottom": 550,
-      "waveTop": 400,
+      "waveBottom": 400,
+      "waveTop": 200,
       "waveColor": "#facf09"
     },
 
@@ -161,8 +161,8 @@
       "captionLeft": 500,
       "backgroundImage": "tbk-bookmarks.png",
       "foregroundColor": "#FFFFFF",
-      "waveBottom": 550,
-      "waveTop": 400,
+      "waveBottom": 400,
+      "waveTop": 200,
       "waveColor": "#5ab251"
     },
 
@@ -176,13 +176,13 @@
       "captionLeft": 500,
       "backgroundImage": "tbk-dangerous-ideas.png",
       "foregroundColor": "#FFFFFF",
-      "waveBottom": 550,
-      "waveTop": 400,
+      "waveBottom": 400,
+      "waveTop": 200,
       "waveColor": "#267bb9"
 
 },
 
-"Sonic Sidebar - show special": {
+"Sonic Sidebar - show special (yellow)": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -191,10 +191,40 @@
   "captionLeft": 700,
   "backgroundImage": "show.png",
   "foregroundColor": "#FFFFFF",
-  "waveBottom": 550,
+  "waveBottom": 450,
   "waveTop": 250,
   "waveColor": "#facf09",
   "pattern": "bars"
+}
+
+"Sonic Sidebar - segment 1 (green) ": {
+  "captionAlign": "right",
+  "captionLineHeight": 52,
+  "captionLineSpacing": 7,
+  "captionTop": 60,
+  "captionRight": 1220,
+  "captionLeft": 700,
+  "backgroundImage": "segment1.png",
+  "foregroundColor": "#FFFFFF",
+  "waveBottom": 450,
+  "waveTop": 250,
+  "waveColor": "#facf09",
+  "pattern": "waves"
+}
+
+"Sonic Sidebar - segment 2 (blue) ": {
+  "captionAlign": "right",
+  "captionLineHeight": 52,
+  "captionLineSpacing": 7,
+  "captionTop": 60,
+  "captionRight": 1220,
+  "captionLeft": 700,
+  "backgroundImage": "segment2.png",
+  "foregroundColor": "#FFFFFF",
+  "waveBottom": 450,
+  "waveTop": 250,
+  "waveColor": "#facf09",
+  "pattern": "pixels"
 }
 
 }
