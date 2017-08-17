@@ -182,7 +182,7 @@
 
 },
 
-"Sonic Sidebar - show special (yellow)": {
+"Sonic Sidebar - show special": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -197,7 +197,7 @@
   "pattern": "bars"
 },
 
-"Sonic Sidebar - segment 1 (blue) ": {
+"Sonic Sidebar - segment 1 ": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -212,7 +212,7 @@
   "pattern": "pixel"
 },
 
-"Sonic Sidebar - segment 2 (green) ": {
+"Sonic Sidebar - segment 2 ": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -223,7 +223,7 @@
   "foregroundColor": "#FFFFFF",
   "waveBottom": 450,
   "waveTop": 250,
-  "waveColor": "#5ab251",
+  "waveColor": "#facf09",
   "pattern": "curve"
 }
 
