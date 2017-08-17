@@ -197,7 +197,7 @@
   "pattern": "bars"
 },
 
-"Sonic Sidebar - segment 1 (green) ": {
+"Sonic Sidebar - segment 1 (blue) ": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -209,10 +209,10 @@
   "waveBottom": 450,
   "waveTop": 250,
   "waveColor": "#facf09",
-  "pattern": "waves"
+  "pattern": "pixel"
 },
 
-"Sonic Sidebar - segment 2 (blue) ": {
+"Sonic Sidebar - segment 2 (green) ": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -223,8 +223,8 @@
   "foregroundColor": "#FFFFFF",
   "waveBottom": 450,
   "waveTop": 250,
-  "waveColor": "#facf09",
-  "pattern": "pixels"
+  "waveColor": "#5ab251",
+  "pattern": "curve"
 }
 
 }
