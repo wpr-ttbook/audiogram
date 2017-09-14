@@ -209,7 +209,22 @@
   "waveBottom": 450,
   "waveTop": 250,
   "waveColor": "#facf09",
-  "pattern": "pixel"
+  "pattern": "wave"
+},
+
+"Sonic Sidebar - segment 1 ": {
+  "captionAlign": "right",
+  "captionLineHeight": 52,
+  "captionLineSpacing": 7,
+  "captionTop": 60,
+  "captionRight": 1220,
+  "captionLeft": 700,
+  "backgroundImage": "segment1.png",
+  "foregroundColor": "#FFFFFF",
+  "waveBottom": 450,
+  "waveTop": 250,
+  "waveColor": "#facf09",
+  "pattern": "bars"
 },
 
 "Sonic Sidebar - segment 2 ": {
@@ -220,6 +235,51 @@
   "captionRight": 1220,
   "captionLeft": 700,
   "backgroundImage": "segment2.png",
+  "foregroundColor": "#FFFFFF",
+  "waveBottom": 450,
+  "waveTop": 250,
+  "waveColor": "#facf09",
+  "pattern": "pixel"
+},
+
+"Sonic Sidebar - segment 3 ": {
+  "captionAlign": "right",
+  "captionLineHeight": 52,
+  "captionLineSpacing": 7,
+  "captionTop": 60,
+  "captionRight": 1220,
+  "captionLeft": 700,
+  "backgroundImage": "segment3.png",
+  "foregroundColor": "#FFFFFF",
+  "waveBottom": 450,
+  "waveTop": 250,
+  "waveColor": "#facf09",
+  "pattern": "bars"
+},
+
+"Sonic Sidebar - segment 4 ": {
+  "captionAlign": "right",
+  "captionLineHeight": 52,
+  "captionLineSpacing": 7,
+  "captionTop": 60,
+  "captionRight": 1220,
+  "captionLeft": 700,
+  "backgroundImage": "segment4.png",
+  "foregroundColor": "#FFFFFF",
+  "waveBottom": 450,
+  "waveTop": 250,
+  "waveColor": "#facf09",
+  "pattern": "pixel"
+},
+
+"Sonic Sidebar - segment 5 ": {
+  "captionAlign": "right",
+  "captionLineHeight": 52,
+  "captionLineSpacing": 7,
+  "captionTop": 60,
+  "captionRight": 1220,
+  "captionLeft": 700,
+  "backgroundImage": "segment5.png",
   "foregroundColor": "#FFFFFF",
   "waveBottom": 450,
   "waveTop": 250,
