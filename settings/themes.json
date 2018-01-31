@@ -182,7 +182,7 @@
 
 },
 
-"Sonic Sidebar - show special": {
+"TTBOOK - show keyart": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -197,7 +197,7 @@
   "pattern": "bars"
 },
 
-"Sonic Sidebar - segment 1 ": {
+"TTBOOK - segment 1 ": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -212,7 +212,7 @@
   "pattern": "wave"
 },
 
-"Sonic Sidebar - segment 1 ": {
+"TTBOOK - segment 1 ": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -227,7 +227,7 @@
   "pattern": "bars"
 },
 
-"Sonic Sidebar - segment 2 ": {
+"TTBOOK - segment 2 ": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -242,7 +242,7 @@
   "pattern": "pixel"
 },
 
-"Sonic Sidebar - segment 3 ": {
+"TTBOOK - segment 3 ": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -257,7 +257,7 @@
   "pattern": "bars"
 },
 
-"Sonic Sidebar - segment 4 ": {
+"TTBOOK - segment 4 ": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
@@ -272,7 +272,7 @@
   "pattern": "pixel"
 },
 
-"Sonic Sidebar - segment 5 ": {
+"TTBOOK - segment 5 ": {
   "captionAlign": "right",
   "captionLineHeight": 52,
   "captionLineSpacing": 7,
