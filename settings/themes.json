@@ -118,25 +118,7 @@
     "waveColor": "#5ab251"
   },
 
-  "TTBOOK Yellow/Black": {
-    "backgroundImage": "ttbook_yellowblack.png",
-    "foregroundColor": "#000000",
-    "waveColor": "#2e2d2e"
-  },
-
-  "TTBOOK Blue/Black": {
-    "backgroundImage": "ttbook_blueblack.png",
-    "foregroundColor": "#000000",
-    "waveColor": "#2e2d2e"
-  },
-
-  "TTBOOK Green/Black": {
-    "backgroundImage": "ttbook_greenblack.png",
-    "foregroundColor": "#000000",
-    "waveColor": "#2e2d2e"
-  },
-
-    "Furniture - Deep Tracks": {
+    "TTBOOK Furniture - Deep Tracks": {
       "captionAlign": "right",
       "captionLineHeight": 60,
       "captionLineSpacing": 7,
@@ -151,7 +133,7 @@
       "waveColor": "#facf09"
     },
 
-    "Furniture - BookMarks": {
+    "TTBOOK Furniture - BookMarks": {
       "captionAlign": "right",
       "captionLineHeight": 60,
       "captionLineSpacing": 7,
@@ -166,7 +148,7 @@
       "waveColor": "#5ab251"
     },
 
-    "Furniture - dangerous ideas": {
+    "TTBOOK Furniture - dangerous ideas": {
       "captionAlign": "right",
       "captionLineHeight": 60,
       "captionLineSpacing": 7,
