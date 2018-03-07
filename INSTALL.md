@@ -56,7 +56,7 @@ sudo npm install -g n
 sudo n stable
 
 # Clone the audiogram repo
-git clone https://github.com/nypublicradio/audiogram.git
+git clone https://github.com/wpr-ttbook/audiogram
 cd audiogram
 
 # Install local modules from NPM
@@ -96,7 +96,7 @@ brew install pkg-config cairo pango libpng jpeg giflib ffmpeg
 cd /where/to/put/this/
 
 # Clone the repo
-git clone https://github.com/nypublicradio/audiogram.git
+git clone https://github.com/wpr-ttbook/audiogram
 cd audiogram
 
 # Install from NPM
@@ -116,7 +116,7 @@ In addition to installing Docker, you'll need to install Git.  You can do this b
 You can clone the repo and build an image, or build it directly from the repo:
 
 ```sh
-git clone https://github.com/nypublicradio/audiogram.git
+git clone https://github.com/wpr-ttbook/audiogram
 cd audiogram
 docker build -t audiogram .
 ```
@@ -124,7 +124,7 @@ docker build -t audiogram .
 or
 
 ```sh
-docker build -t audiogram https://github.com/nypublicradio/audiogram.git
+docker build -t audiogram https://github.com/wpr-ttbook/audiogram
 ```
 
 Now you can run Audiogram in a container using that image:
