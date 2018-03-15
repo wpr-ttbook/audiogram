@@ -9,7 +9,6 @@
     "waveTop": 220,
     "waveBottom": 500,
     "captionTop": 100,
-    "captionFont": "600 52px 'Proxima Nova'",
     "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 20,
