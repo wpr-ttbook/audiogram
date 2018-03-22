@@ -1,7 +1,5 @@
 #!/bin/bash
 
-cd /develop/audiogram
-
 git pull
 
 echo "Starting WNYC Audiogram Tool"
